@@ -1,4 +1,5 @@
-# 🔗 Square N8N — Host N8N Workflow Automation on Square Cloud ☁️
+# 🔗 Square Cloud N8N
+## Host N8N Workflow Automation on Square Cloud ☁️
 
 > 🌐 Easily host your own N8N automation platform on Square Cloud and create powerful workflows from anywhere, right from your browser, with a beautiful and user-friendly interface.
 
