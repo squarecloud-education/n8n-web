@@ -36,5 +36,4 @@ The goal of this project is to let you host an N8N instance on Square Cloud, so 
 
 ## 🙏 Credits
 
-Developed and maintained by [@JoaoOtavioS](https://github.com/JoaoOtavioS) on GitHub.
-
+Maintained by [@JoaoOtavioS](https://github.com/JoaoOtavioS) on GitHub.
