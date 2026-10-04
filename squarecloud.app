@@ -1,5 +1,6 @@
 DISPLAY_NAME=N8N Square Cloud
-MAIN=index.js
+RUNTIME=nodejs
+START=npm run start
 SUBDOMAIN={random-hash}-n8n
 VERSION=recommended
 MEMORY=3072

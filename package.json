@@ -1,7 +1,6 @@
 {
   "name": "squarecloud-n8n",
   "version": "1.0.0",
-  "main": "index.js",
   "type": "module",
   "scripts": {
     "start": "n8n"
@@ -9,6 +8,6 @@
   "author": "Square Cloud Education <squarecloud.app>",
   "license": "ISC",
   "dependencies": {
-    "n8n": "latest"
+    "n8n": "2.41.6"
   }
 }
